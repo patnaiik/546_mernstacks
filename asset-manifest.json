@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/patnaiik/546_mernstacks.git/static/css/main.f855e6bc.css",
-    "main.js": "/patnaiik/546_mernstacks.git/static/js/main.988fb51c.js",
-    "static/js/592.9fde5122.chunk.js": "/patnaiik/546_mernstacks.git/static/js/592.9fde5122.chunk.js",
-    "static/media/logo.svg": "/patnaiik/546_mernstacks.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/patnaiik/546_mernstacks.git/index.html",
-    "main.f855e6bc.css.map": "/patnaiik/546_mernstacks.git/static/css/main.f855e6bc.css.map",
-    "main.988fb51c.js.map": "/patnaiik/546_mernstacks.git/static/js/main.988fb51c.js.map",
-    "592.9fde5122.chunk.js.map": "/patnaiik/546_mernstacks.git/static/js/592.9fde5122.chunk.js.map"
+    "main.css": "/546_mernstacks/static/css/main.f855e6bc.css",
+    "main.js": "/546_mernstacks/static/js/main.70fabad5.js",
+    "static/js/592.9fde5122.chunk.js": "/546_mernstacks/static/js/592.9fde5122.chunk.js",
+    "static/media/logo.svg": "/546_mernstacks/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/546_mernstacks/index.html",
+    "main.f855e6bc.css.map": "/546_mernstacks/static/css/main.f855e6bc.css.map",
+    "main.70fabad5.js.map": "/546_mernstacks/static/js/main.70fabad5.js.map",
+    "592.9fde5122.chunk.js.map": "/546_mernstacks/static/js/592.9fde5122.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.988fb51c.js"
+    "static/js/main.70fabad5.js"
   ]
 }
